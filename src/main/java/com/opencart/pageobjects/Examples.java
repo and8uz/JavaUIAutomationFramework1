@@ -1,2 +1,4 @@
-package com.opencart.pageobjects;public class Examples {
+package com.opencart.pageobjects;
+
+public class Examples {
 }

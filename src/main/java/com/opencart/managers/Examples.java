@@ -1,2 +1,4 @@
-package com.opencart.managers;public class Examples {
+package com.opencart.managers;
+
+public class Examples {
 }
