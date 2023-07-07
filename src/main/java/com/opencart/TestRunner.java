@@ -22,6 +22,7 @@ public class TestRunner {
             driver.switchTo().newWindow(WindowType.TAB);
 
             driver.get("https://www.apache.org/");
+            driver.get("https://999.md/ru/");
             driver.get("https://andreisecuqa.host/");
 
             WebElement accountIcon = driver.findElement(By.xpath("//i[@class='fa-solid fa-user']"));
