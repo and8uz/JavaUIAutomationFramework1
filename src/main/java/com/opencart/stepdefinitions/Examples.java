@@ -1,2 +1,4 @@
-package com.opencart.stepdefinitions;public class Examples {
+package com.opencart.stepdefinitions;
+
+public class Examples {
 }
